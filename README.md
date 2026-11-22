@@ -6,8 +6,11 @@
 
 腳本設置:
 PlayerController 角色移動
+
 GameDirector 導演腳本
+
 CoinController 金幣控制
+
 CoinGenerator 金幣生成
 
 參數設置:
