@@ -2,9 +2,11 @@
 撿金幣模擬器
 
 遊戲設置:
+
 角色、金幣(gold,silver,bronze)、UI(LButton/RButton,time,point,win/lose,fever,faster)
 
 腳本設置:
+
 PlayerController 角色移動
 
 GameDirector 導演腳本
