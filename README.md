@@ -28,3 +28,6 @@ CoinGenerator 金幣生成
 Fever(金幣狂潮): 在最後10秒必定生成金幣
 
 <img width="1912" height="995" alt="image" src="https://github.com/user-attachments/assets/164cb289-27ab-4395-9a9b-719958bad0c1" />
+
+
+Youtube連結: https://youtu.be/Iuo0LWcugKI
