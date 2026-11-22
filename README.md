@@ -1,9 +1,11 @@
 # 1151-HW8-413262445--
 撿金幣模擬器
 
+
 遊戲設置:
 
 角色、金幣(gold,silver,bronze)、UI(LButton/RButton,time,point,win/lose,fever,faster)
+
 
 腳本設置:
 
@@ -14,6 +16,7 @@ GameDirector 導演腳本
 CoinController 金幣控制
 
 CoinGenerator 金幣生成
+
 
 參數設置:
 | 遊戲階段 | 剩餘時間 | `span` (生成間隔) | `speed` (掉落物速度) | `rate` (金 / 銀 / 銅 生成機率) |
